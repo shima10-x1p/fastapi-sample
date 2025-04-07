@@ -1,0 +1,5 @@
+# OpenAPI Generator Ignore
+.flake8
+pyproject.toml
+setup.cfg
+requirements.txt
